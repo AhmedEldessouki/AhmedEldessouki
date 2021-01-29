@@ -1,20 +1,25 @@
-### Hi there 👋
+### Greetings 👋
 
-[![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedeldessouki&show_icons=true&theme=dark)](https://github.com/ahmedeldessouki/github-readme-stats)
+<p align="center">
+<a href="https://ahmedeldessouki.netlify.app"> Portfolio
+</a>&nbsp;
+<a href="https://www.instagram.com/eldessouki.a"> Instagram
+</a>&nbsp;
+<a href="https://www.linkedin.com/in/ahmedeldessouki/">LinkedIn
+</a>&nbsp;
+</p>
 
-[![Ahmed's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ahmedeldessouki)](https://github.com/ahmedeldessouki/github-readme-stats)
+[![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedeldessouki&show_icons=true&bg_color=282c34&text_color=a5e6ec&icon_color=337ab7)](https://github.com/ahmedeldessouki/github-readme-stats)
 
-<!--
-**AhmedEldessouki/AhmedEldessouki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedeldessouki&layout=compact&custom_title=Rocking_With)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
+## 🔭 I’m currently working on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OpenSourceRaidGuild&repo=website&show_owner=true)](https://github.com/OpenSourceRaidGuild/website)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ahmedeldessouki&repo=portfolio)](https://github.com/ahmedeldessouki/portfolio)
+
+## 🌱 I’m currently learning
+Jest - TypeScript - Web Accissibility (WAI)
+
+## 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
