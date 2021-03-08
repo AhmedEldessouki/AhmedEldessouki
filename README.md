@@ -13,10 +13,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedeldessouki&layout=compact&custom_title=Rocking_With)](https://github.com/anuraghazra/github-readme-stats)
 
-## 🔭 I’m currently working on:
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OpenSourceRaidGuild&repo=website&show_owner=true)](https://github.com/OpenSourceRaidGuild/website)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ahmedeldessouki&repo=portfolio)](https://github.com/ahmedeldessouki/portfolio)
-
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
