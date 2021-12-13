@@ -9,6 +9,6 @@
 </a>&nbsp;
 </p>
 
-[![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedeldessouki&show_icons=true&bg_color=282c34&text_color=a5e6ec&icon_color=337ab7)](https://github.com/ahmedeldessouki/github-readme-stats)
+[![Ahmed's GitHub stats](https://g-rm-me.vercel.app/api?username=ahmedeldessouki&show_icons=true&bg_color=282c34&text_color=a5e6ec&icon_color=337ab7)](https://github.com/ahmedeldessouki/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedeldessouki&layout=compact&custom_title=Rocking_With)](https://github.com/ahmedeldessouki/github-readme-stats)
+[![Top Langs](https://g-rm-me.vercel.app/api/top-langs/?username=ahmedeldessouki)](https://github.com/ahmedeldessouki/github-readme-stats)
